@@ -1,0 +1,240 @@
+{
+  "name": "Vinay Kumar Yadav",
+  "label": "Optional Label",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "Vinaykryadav2002@gmail.com",
+    "phone": "9910515382",
+    "location": "Delhi, Delhi, India"
+  },
+  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://sample.com",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "Linkedin",
+      "url": "https://sample.com",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Git Hub",
+      "url": "https://sample.com",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Credgenics",
+      "position": "Data Analyst",
+      "url": "https://www.credgenics.com/",
+      "start_date": "02/09/2024",
+      "end_date": "Present",
+      "summary": "Short summary about present job and what the position entails",
+      "highlights": [
+        "Data Cleaning and Sorting",
+        "Creating Automation Script ",
+        "Data Manipulation and Report"
+      ]
+    },
+    {
+      "company": "Himadi Solutions ",
+      "position": "MIS Executive",
+      "url": "https://himadi.com/",
+      "start_date": "13/03/2022",
+      "end_date": "18/01/2024",
+      "summary": "Short summary about previous job and what that position entailed",
+      "highlights": [
+        "Vendor Management",
+        "Daily Report and Monitoring"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Job_Recommendation",
+      "summary": "Short summary about my first project",
+      "url": "https://sample.com",
+      "highlights": [
+        "Job Title by Company",
+        "Level of Experience",
+        "Avg Salary by Industry"
+      ],
+      "images": [
+        {
+          "img_path": "project_img/0.png",
+          "caption": "Image Caption 0"
+        },
+        {
+          "img_path": "project_img/1.png",
+          "caption": "Image Caption 1"
+        },
+        {
+          "img_path": "project_img/2.png",
+          "caption": "Image Caption 2"
+        },
+        {
+          "img_path": "project_img/3.png",
+          "caption": "Image Caption 3"
+        }
+      ]
+    },
+    {
+      "title": "Super_Store",
+      "summary": "Short summary about my second project",
+      "url": "https://sample.com",
+      "highlights": [
+        "Segment",
+        "Region",
+        "Product"
+      ],
+      "images": [
+        {
+          "img_path": "project_img/0.0.png",
+          "caption": "Image Caption 0.0"
+        },
+        {
+          "img_path": "project_img/4.png",
+          "caption": "Image Caption 4"
+        },
+        {
+          "img_path": "project_img/5.png",
+          "caption": "Image Caption 5"
+        },
+        {
+          "img_path": "project_img/6.png",
+          "caption": "Image Caption 6"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Latest Organization",
+      "position": "Position One",
+      "url": "https://sample.com",
+      "start_date": "01/01/2020",
+      "end_date": "Present",
+      "summary": "Short summary about present volunteer work",
+      "highlights": [
+        "First Duty of Current Organization",
+        "Second Duty of Current Organization",
+        "Third Duty of Current Organization"
+      ]
+    },
+    {
+      "organization": "Previous Organization",
+      "position": "Position Two",
+      "url": "https://sample.com",
+      "start_date": "01/01/2010",
+      "end_date": "01/01/2020",
+      "summary": "Short summary about previous volunteer work",
+      "highlights": [
+        "First Duty of Previous Organization",
+        "Second Duty of Previous Organization",
+        "Third Duty of Previous Organization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Govt Sarvodaya Bal Vidyalaya",
+      "location": "Ramesh Nagar",
+      "url": "https://www.google.com/maps/place/Govt+Sarvodaya+Bal+Vidyalaya+Ramesh+Nagar/@28.6467019,77.1274333,17z/data=!3m1!4b1!4m6!3m5!1s0x390d0312fb40f15b:0x94a60eb28af7cdac!8m2!3d28.6467019!4d77.1274333!16s%2Fg%2F12hm_4pjg?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "degrees": [
+        "12th"
+      ],
+      "honors": ["Commerce"],
+      "gpa_cumulative": "3.5",
+      "gpa_major": "4.0",
+      "graduation_date": "2020"
+    },
+    {
+      "institution": "Delhi University",
+      "location": "New Delhi",
+      "url": "https://www.du.ac.in/",
+      "degrees": ["Bachelor of Commerce"],
+      "honors": ["Scholarship Recipient"],
+      "gpa_cumulative": "3.2",
+      "gpa_major": "3.9",
+      "graduation_date": "2024"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Excel & Google Sheet",
+      "proficiency": 90,
+      "proficiency_label": "Proficiency Level 90%"
+    },
+    {
+      "name": "SQL",
+      "proficiency": 80,
+      "proficiency_label": "Competence Level 80%"
+    },
+    {
+      "name": "Power BI & Locker",
+      "proficiency": 60,
+      "proficiency_label": "Competence Level 60%"
+    },
+    {
+      "name": "Python",
+      "proficiency": 80,
+      "proficiency_label": "Competence Level 60%"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Book Reading",
+      "summary": "I enjoy reading books that focus on motivation and personality development. I am passionate about learning strategies to enhance self-growth, build confidence, and develop a positive mindset.",
+      "images": [
+        {
+          "img_path": "project_img/7.jpg",
+          "caption": "Image Caption 7"
+        },
+        {
+          "img_path": "project_img/8.jpg",
+          "caption": "Image Caption 8"
+        }
+      ]
+    },
+    {
+      "name": "Traveling",
+      "summary": "I love traveling to hill stations and quiet, peaceful places where I can relax and enjoy nature.",
+      "images": [
+        {
+          "img_path": "project_img/9.jpg",
+          "caption": "Image Caption 9"
+        },
+        {
+          "img_path": "project_img/10.jpg",
+          "caption": "Image Caption 10"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Mediocre Speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "references": [
+    {
+      "name": "Person One",
+      "relation": "Previous Boss",
+      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+    },
+    {
+      "name": "Person Two",
+      "relation": "Previous Coworker",
+      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+    }
+  ]
+}
